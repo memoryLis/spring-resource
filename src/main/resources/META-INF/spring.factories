@@ -1,0 +1,2 @@
+#org.springframework.boot.BootstrapRegistryInitializer=com.liang.springboot.initialize.MyBootStrapRegistryInitializer
+#org.springframework.boot.SpringApplicationRunListener=com.liang.springboot.initialize.CustomApplicationListener
